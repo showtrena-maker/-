@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Roulette Arc - Success Zone (Cyan/Gold) -->
+    <path
+        android:pathData="M 54,26 A 28,28 0 0,1 82,54"
+        android:strokeColor="#FFB800"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M 82,54 A 28,28 0 0,1 54,82"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M 54,82 A 28,28 0 0,1 26,54"
+        android:strokeColor="#3A4659"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M 26,54 A 28,28 0 0,1 54,26"
+        android:strokeColor="#3A4659"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Center pointer arrow pointing up -->
+    <path
+        android:pathData="M 54,34 L 59,44 L 49,44 Z"
+        android:fillColor="#FFD700" />
+
+    <!-- Stylized Karambit Knife Silhouette inside the circle -->
+    <path
+        android:pathData="M44,48 C48,43 57,41 65,45 C62,49 57,52 52,53 C49,54 46,51 44,48 Z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M52,53 C56,58 59,65 54,71 C50,72 45,69 46,63 C47,60 50,56 52,53 Z"
+        android:fillColor="#00E5FF" />
+    <!-- Finger ring hole of karambit -->
+    <path
+        android:pathData="M48,65 A 3,3 0 1,1 47.9,65"
+        android:fillColor="#141721" />
+
+    <!-- Star / CS Rarity Badge -->
+    <path
+        android:pathData="M54,20 L55.5,23.5 L59.5,24 L56.5,26.5 L57.5,30.5 L54,28.5 L50.5,30.5 L51.5,26.5 L48.5,24 L52.5,23.5 Z"
+        android:fillColor="#FFB800" />
+</vector>

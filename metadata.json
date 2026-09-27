@@ -1,0 +1,6 @@
+{
+  "name": "CS2 Upgrader & Cases",
+  "description": "CS2 скин апгрейдер в стиле Musor Drop: крути рулетку, улучшай скины, открывай кейсы от дешёвых до редких ножей с ценами в рублях и бесплатным кейсом при нулевом балансе.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
